@@ -57,9 +57,11 @@ Always learning. Always building. Always growing.
 <b>“Code with purpose. Design with love. Build for impact.”</b>
 </p>
 
+---
+
 ### 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://t.me/pro_hispeace" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" /></a>
   <a href="mailto:promisehispeace@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://instagram.com/pro_hispeace" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
