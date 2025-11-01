@@ -1,5 +1,16 @@
-<h1 align="center">Hey there 👋, I'm Wada Negassa</h1>
-<h3 align="center">🚀 Flutter & Full-Stack Developer | 🎨 UI/UX Enthusiast | 💡 Life-Long Learner</h3>
+<!-- 🖼️ Animated Coding Banner -->
+![Coding Banner](https://i.ibb.co/2n4x4Zm/coding.gif)
+
+<!-- 👋 Introduction -->
+<h1 align="center">Hey there 👋, I'm <span style="color:#00BFA6;">Wada Negassa</span></h1>
+<h3 align="center">🚀 Flutter & Full-Stack Developer | 🎨 UI/UX Enthusiast | 💡 Passionate IT Student</h3>
+
+<!-- ✨ Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00BFA6&center=true&vCenter=true&width=500&lines=Flutter+Developer;Full-Stack+Learner;UI%2FUX+Designer;Faith+Driven+Coder;Building+Impactful+Apps+with+Purpose" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WadaNegassa&label=Profile%20views&color=0e75b6&style=flat" alt="WadaNegassa" />
@@ -7,49 +18,79 @@
 
 ---
 
-### 🧩 About Me
+### 🌟 About Me
 
-- 🌱 Currently mastering **Flutter**, **Node.js**, and **Firebase**
-- 💼 Building cool projects like **Campus Connect** and **Daily Bread**
-- 🎯 Goal: Become a creative **cross-platform & full-stack** problem solver
-- ⚡ Fun fact: I love clean UI design, Figma, and meaningful code
-- ✝️ Favorite quote: *“I can do all things through Christ who strengthens me.”* — Philippians 4:13
+- 🎓 IT student at **Haramaya University**
+- 💻 Specializing in **Flutter**, **Firebase**, and **Node.js**
+- 🎯 Building real-world apps like **Campus Connect**, **Daily Bread**, and **Connect**
+- 🧩 Focused on **clean architecture** and **beautiful UI/UX design**
+- 🧠 Life-long learner and passionate about building useful tools
+- ✝️ *"I can do all things through Christ who strengthens me."* — Philippians 4:13
 
 ---
 
-### 🛠️ Languages & Tools
+### 🧰 Tech Stack & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,figma,nodejs,firebase,git,github,vscode,express" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,js,html,css,nodejs,express,firebase,git,github,figma,vscode,postman" />
 </p>
+
+---
+
+### 🚧 Featured Projects
+
+| 🚀 Project | 📝 Description | 🔗 Link |
+|-------------|----------------|---------|
+| **Campus Connect** | A university app for events, announcements, and lost & found items | [View Project](https://github.com/WadaNegassa/Campus-Connect) |
+| **Daily Bread** | A Christian devotional & verse-based Flutter app | [View Project](https://github.com/WadaNegassa/Daily-Bread) |
+| **Connect** | A developer-focused social networking app | [View Project](https://github.com/WadaNegassa/Connect) |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WadaNegassa&show_icons=true&theme=tokyonight" alt="Wada's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WadaNegassa&theme=tokyonight" alt="streak stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=WadaNegassa&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=WadaNegassa&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=WadaNegassa&theme=tokyonight&margin-w=15" />
 </p>
 
 ---
 
-### 🚧 Current Projects
+### 🧠 Top Languages
 
-- 🏫 [Campus Connect](https://github.com/WadaNegassa/Campus-Connect) — University lost & found + events system  
-- 🙏 [Daily Bread](https://github.com/WadaNegassa/Daily-Bread) — Christian devotional app  
-- 💬 [Connect](https://github.com/WadaNegassa/Connect) — Developer community app  
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WadaNegassa&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🙏 Verse of the Day
+
+<p align="center">
+  <img src="https://readme-verse.vercel.app/api?translation=kjv" alt="Verse of the Day" />
+</p>
 
 ---
 
 ### 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/wada-negassa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:wadanegassa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://x.com/wadanegassa" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+<p align="center">
+  <a href="mailto:wadanegassa@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="gmail"/></a>
+  <a href="https://linkedin.com/in/wada-negassa"><img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin"/></a>
+  <a href="https://x.com/wadanegassa"><img src="https://skillicons.dev/icons?i=twitter" alt="twitter"/></a>
 </p>
 
 ---
 
-⭐ From [Wada Negassa](https://github.com/WadaNegassa)
+### ⚡ Quick Quote
+
+> “Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.”  
+> — *Colossians 3:23*
+
+---
+
+⭐ **From [Wada Negassa](https://github.com/WadaNegassa)**
