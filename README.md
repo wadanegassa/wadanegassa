@@ -1,11 +1,12 @@
-<!-- 🎬 Animated Developer Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/2n4x4Zm/coding.gif" alt="Coding GIF" width="100%" />
-</p>
-
-<!-- 👋 Intro -->
+<!-- 👋 Introduction -->
 <h1 align="center">👋 Hey, I'm <span style="color:#00BFA6;">Wada Negassa</span></h1>
 <h3 align="center">💻 Flutter Developer • 🌐 Full-Stack Learner • 🎨 UI/UX Enthusiast</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00BFA6&center=true&vCenter=true&width=500&lines=Building+Flutter+Apps;Designing+Clean+UI%2FUX;Learning+Full-Stack;Faith+Driven+Developer" />
+  </a>
+</p>
 
 ---
 
@@ -26,34 +27,34 @@ Always learning. Always building. Always growing.
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,js,html,css,figma,vscode,git,github,postman" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,figma,vscode,git,github" />
 </p>
 
 ---
 
 ### 🎯 Current Focus
+
 <p align="center">
-🚀 Mastering Flutter and Firebase  
-💡 Learning backend with Node.js  
-🎨 Designing modern mobile interfaces  
+🌱 Mastering Flutter & Provider state management<br>
+💡 Building scalable full-stack apps with Firebase + Node.js<br>
+🎨 Designing modern mobile UI/UX<br>
+📚 Solving real-world problems with code
 </p>
 
 ---
 
-### ⚡ Quick Facts
+### ⚡ Fun Facts
 
-- 🌱 Currently learning **Provider** for state management in Flutter  
-- 🧩 Passionate about **UI design** and solving **real-world problems**  
-- 💬 Ask me about **Flutter, Firebase, or modern UI/UX**  
-- 🎧 Music: Hip-hop & Reggae while coding  
-- ✝️ Faith + creativity = my fuel  
+<p align="center">
+🎧 Music: Hip-hop & Rock to keep the flow<br>
+🕊️ Faith and creativity guide everything I do<br>
+💬 Ask me about Flutter, Firebase, Node.js, or UI/UX tips
+</p>
 
 ---
 
 <p align="center">
-  <b>“Code with purpose. Design with love. Build for impact.”</b>
+<b>“Code with purpose. Design with love. Build for impact.”</b>
 </p>
-
----
 
 ⭐ **From [Wada Negassa](https://github.com/WadaNegassa)**
