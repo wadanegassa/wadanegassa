@@ -27,7 +27,7 @@ Always learning. Always building. Always growing.
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,figma,vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,figma,vscode,git,github,postman" />
 </p>
 
 ---
@@ -39,22 +39,6 @@ Always learning. Always building. Always growing.
 💡 Building scalable full-stack apps with Firebase + Node.js<br>
 🎨 Designing modern mobile UI/UX<br>
 📚 Solving real-world problems with code
-</p>
-
----
-
-### ⚡ Fun Facts
-
-<p align="center">
-🎧 Music: Hip-hop & Rock to keep the flow<br>
-🕊️ Faith and creativity guide everything I do<br>
-💬 Ask me about Flutter, Firebase, Node.js, or UI/UX tips
-</p>
-
----
-
-<p align="center">
-<b>“Code with purpose. Design with love. Build for impact.”</b>
 </p>
 
 ---
