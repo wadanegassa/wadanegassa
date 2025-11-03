@@ -1,6 +1,6 @@
 <!-- 👋 Introduction -->
-<h1 align="center">👋 Hey, I'm <span style="color:#00BFA6;">Wada Negassa</span></h1>
-<h3 align="center">💻 Flutter Developer • 🌐 Full-Stack Learner • 🎨 UI/UX Enthusiast</h3>
+<h1 align="center"> Hey, I'm <span style="color:#00BFA6;">Wada Negassa</span></h1>
+<h3 align="center"> Flutter Developer •  Full-Stack Learner •  UI/UX Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -10,7 +10,7 @@
 
 ---
 
-### 🌟 About Me
+###  About Me
 
 <p align="center">
 I'm an <b>IT student at Haramaya University</b> passionate about <b>building clean, creative, and meaningful apps</b>.  
@@ -19,12 +19,12 @@ Always learning. Always building. Always growing.
 </p>
 
 <p align="center">
-✨ <i>"I can do all things through Christ who strengthens me."</i> — Philippians 4:13
+ <i>"I can do all things through Christ who strengthens me."</i> — Philippians 4:13
 </p>
 
 ---
 
-### 🧰 Tech Stack & Tools
+###  Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,nodejs,express,figma,vscode,git,github,postman" />
@@ -32,18 +32,18 @@ Always learning. Always building. Always growing.
 
 ---
 
-### 🎯 Current Focus
+###  Current Focus
 
 <p align="center">
-🌱 Mastering Flutter & Provider state management<br>
-💡 Building scalable full-stack apps with Firebase + Node.js<br>
-🎨 Designing modern mobile UI/UX<br>
-📚 Solving real-world problems with code
+- Mastering Flutter & Provider state management<br>
+- Building scalable full-stack apps with Firebase + Node.js<br>
+- Designing modern mobile UI/UX<br>
+- Solving real-world problems with code
 </p>
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://t.me/pro_hispeace" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" /></a>
@@ -53,4 +53,4 @@ Always learning. Always building. Always growing.
 
 
 
-⭐ **From [Wada Negassa](https://github.com/WadaNegassa)**
+ **From [Wada Negassa](https://github.com/WadaNegassa)**
