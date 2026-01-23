@@ -43,7 +43,7 @@ I believe in continuous learning, thoughtful design, and building solutions that
   <a href="https://t.me/pro_hispeace" target="_blank"><img src="https://skillicons.dev/icons?i=telegram" alt="Telegram" /></a>
   <a href="mailto:promisehispeace@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" /></a>
   <a href="https://instagram.com/pro_hispeace" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
-  <a href="https://www.linkedin.com/in/wada-negassa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/wadanegassa" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 </p>
 
 ---
