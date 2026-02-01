@@ -1,6 +1,6 @@
 <!-- 👋 Introduction -->
 <h1 align="center">Hey there, I'm <span style="color:#00BFA6;">Wada Negassa</span> 👋</h1>
-<h3 align="center">Flutter Developer • Full-Stack Learner • UI/UX Enthusiast • Faith-Driven</h3>
+<h3 align="center">Flutter Developer • Full-Stack Developer • UI/UX Enthusiast • Faith-Driven</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFA6&center=true&vCenter=true&width=550&lines=Building+Beautiful+Flutter+Apps;Crafting+Intuitive+UI%2FUX;Learning+Full-Stack;Coding+With+Purpose" alt="Typing SVG"/>
