@@ -10,14 +10,14 @@
 
 ---
 
-## 🧠 Engineering Philosophy
+## Engineering Philosophy
 
 > I don't just build apps — I design systems.  
 > Scalable architecture, offline-first thinking, clean UI/UX, and secure backend integration guide every product I create.
 
 ---
 
-## 🚀 What I Build
+## What I Build
 
 🔹 Cross-platform Flutter Applications  
 🔹 Offline-first mobile architectures (Hive + Provider)  
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠 Core Stack
+## Core Stack
 
 <div align="center">
 
@@ -40,11 +40,12 @@
 
 ---
 
-## 🏗 Featured Projects
+## Featured Projects
 
 <div align="center">
 
-### 🔹 <a href="https://github.com/wadanegassa/proshop" target="_blank">ProShop</a>  
+### 🔹 <a href="https://github.com/wadanegassa/proshop" target="_blank">ProShop</a>
+### 🔹 <a href="https://github.com/wadanegassa/UniElevate" target="_blank">UniElevate</a>
 ### 🔹 <a href="https://github.com/wadanegassa/studymate" target="_blank">StudyMate</a>  
 ### 🔹 <a href="https://github.com/wadanegassa/prochat" target="_blank">ProChat</a>  
 ### 🔹 <a href="https://github.com/wadanegassa/bible" target="_blank">Holy Bible</a>  
@@ -58,7 +59,7 @@
 
 ---
 
-## 📊 Development Activity
+## Development Activity
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=wadanegassa&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -67,7 +68,7 @@
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Mastering advanced system design for mobile apps  
 - Deepening backend architecture & database optimization  
@@ -76,7 +77,7 @@
 
 ---
 
-## 🌍 Connect
+## Connect
 
 <div align="center">
 <a href="https://www.linkedin.com/in/wadanegassa">LinkedIn</a> • 
