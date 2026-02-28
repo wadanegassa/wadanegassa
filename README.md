@@ -4,7 +4,7 @@
 # Wada Negassa  
 ### Flutter & Full-Stack Engineer • System Builder • UI Architect
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00BFA6&center=true&vCenter=true&width=700&lines=Architecting+Scalable+Flutter+Systems;Engineering+Offline-First+Mobile+Apps;Designing+Clean+User+Experiences;Building+With+Purpose+and+Precision" />
+💡 *Architecting Scalable Flutter Systems • Engineering Offline-First Mobile Apps • Designing Clean User Experiences • Building With Purpose and Precision*
 
 </div>
 
@@ -13,91 +13,66 @@
 ## 🧠 Engineering Philosophy
 
 > I don't just build apps — I design systems.  
-> I focus on scalable architecture, offline-first thinking, clean UI/UX, and secure backend integration.  
-> Every product I create is built with intention, performance, and long-term maintainability in mind.
+> I focus on **scalable architecture**, **offline-first thinking**, **clean UI/UX**, and **secure backend integration**.  
+> Every product I create is built with **intention, performance, and maintainability** in mind.
 
 ---
 
 ## 🚀 What I Build
 
-🔹 **Cross-platform Flutter Applications**  
-🔹 **Offline-first mobile architectures (Hive + Provider)**  
-🔹 **Secure authentication systems (JWT, RLS, role-based access)**  
-🔹 **API-driven backend systems (Node.js, Express, Supabase)**  
-🔹 **Modern, minimal, user-centered UI/UX**
+- **Cross-platform Flutter Applications**  
+- **Offline-first mobile architectures** (Hive + Provider)  
+- **Secure authentication systems** (JWT, RLS, role-based access)  
+- **API-driven backend systems** (Node.js, Express, Supabase)  
+- **Modern, minimal, user-centered UI/UX**
 
 ---
 
 ## 🛠 Core Stack
 
-<div align="center">
-
-### Mobile
-Flutter • Dart • Provider • Clean Architecture  
-
-### Backend
-Node.js • Express • Supabase • Firebase  
-
-### Databases
-PostgreSQL • MongoDB • Firestore • Hive  
-
-### Tools
-Git • GitHub • Figma • VS Code • Postman  
-
-</div>
+**Mobile:** Flutter • Dart • Provider • Clean Architecture  
+**Backend:** Node.js • Express • Supabase • Firebase  
+**Databases:** PostgreSQL • MongoDB • Firestore • Hive  
+**Tools:** Git • GitHub • Figma • VS Code • Postman  
 
 ---
 
 ## 🏗 Featured Systems
 
-<div align="center">
-
-### 🔹 ProShop
-**Full-Stack E-Commerce Solution**  
-![ProShop Logo](/assets/proshop/logo.png)  
-A unified e-commerce ecosystem bridging Flutter mobile and React web with secure Stripe/PayPal payments and real-time order monitoring.
+### 🔹 **ProShop** — Full-Stack E-Commerce Solution
+A unified Flutter mobile & React web platform with **secure payments** and real-time order tracking.
 
 **Features:**  
-- Unified catalog sync (Flutter & React)  
-- Secure multi-gateway payment orchestration  
+- Unified catalog sync across mobile & web  
+- Stripe/PayPal secure multi-gateway payments  
 - Role-based admin/customer authentication  
-- Real-time order monitoring dashboard  
+- Real-time order monitoring  
 
 **Tech Stack:** Node.js • Express • React • Vite • Flutter • MongoDB • Stripe • PayPal  
-
-**Impact:**  
-- 100% data parity across mobile & web  
-- Reduced friction in order processing for admins  
+**Impact:** 100% data parity across platforms, smoother order processing for admins  
 
 [GitHub](https://github.com/wadanegassa/proshop) • [Demo](#)
 
 ---
 
-### 🔹 StudyMate
-**AI-Powered Study Companion**  
-![StudyMate Logo](/assets/studymate/logo.png)  
-Adaptive learning app leveraging Gemini AI to turn passive study into a proactive, personalized experience.
+### 🔹 **StudyMate** — AI-Powered Study Companion
+Adaptive learning platform leveraging **Gemini AI** to provide proactive, personalized study guidance.
 
 **Features:**  
 - AI-driven adaptive learning paths  
 - Offline-first note persistence via Hive  
-- Real-time Supabase sync  
+- Real-time Supabase state sync  
 - Context-aware student planning engine  
 
 **Tech Stack:** Flutter • Supabase • Gemini AI • Provider • Hive  
-
-**Impact:**  
-- +30% daily active study sessions  
-- Full offline reliability for notes and scheduling  
+**Impact:** +30% daily active study sessions, fully offline reliability for notes & scheduling  
 
 [GitHub](https://github.com/wadanegassa/studymate) • [Demo](#)
 
 ---
 
-### 🔹 Holy Bible
-**Amharic & English Scripture Platform**  
-![Holy Bible Logo](/assets/bible/logo.png)  
-Premium offline Bible reader with dual-language support, smart highlighting, and buttery-smooth performance on all devices.
+### 🔹 **Holy Bible** — Amharic & English Scripture Platform
+Premium offline Bible reader with **dual-language support** and **smooth UI/UX** for spiritual study.
 
 **Features:**  
 - Fully offline reading (KJV & Amharic 1962)  
@@ -106,19 +81,14 @@ Premium offline Bible reader with dual-language support, smart highlighting, and
 - Dynamic book/chapter navigation grid  
 
 **Tech Stack:** Flutter • Dart • Provider • Sqflite • Shared Preferences  
-
-**Impact:**  
-- 100% offline availability  
-- Smooth bilingual reading with intelligent contrast detection  
+**Impact:** 100% offline availability, smooth bilingual reading with intelligent contrast detection  
 
 [GitHub](https://github.com/wadanegassa/bible) • [Demo](#)
 
 ---
 
-### 🔹 ProPlayer
-**Universal Media Center**  
-![ProPlayer Logo](/assets/proplayer/logo.png)  
-High-performance multimedia player unifying local and streaming media with immersive gesture-driven controls.
+### 🔹 **ProPlayer** — Universal Media Center
+High-performance multimedia player unifying **local media** and **YouTube streaming** with immersive gesture controls.
 
 **Features:**  
 - Universal local media streaming  
@@ -127,14 +97,9 @@ High-performance multimedia player unifying local and streaming media with immer
 - Low-overhead YouTube serverless parsing  
 
 **Tech Stack:** Flutter • Just Audio • Chewie • Youtube Explode • Provider  
-
-**Impact:**  
-- Seamless background playback  
-- High-fidelity media control for diverse sources  
+**Impact:** Seamless background playback, high-fidelity media control  
 
 [GitHub](https://github.com/wadanegassa/proplayer) • [Demo](#)
-
-</div>
 
 ---
 
@@ -149,20 +114,16 @@ High-performance multimedia player unifying local and streaming media with immer
 
 ## 🎯 Current Focus
 
-- Mastering advanced system design for mobile apps  
-- Deepening backend architecture & database optimization  
-- Building production-ready scalable systems  
-- Creating meaningful, real-world impact through technology  
+- Mastering advanced **system design** for mobile apps  
+- Deepening **backend architecture & database optimization**  
+- Building **production-ready scalable systems**  
+- Creating **real-world impact through technology**  
 
 ---
 
 ## 🌍 Connect
 
-<div align="center">
-<a href="https://www.linkedin.com/in/wadanegassa">LinkedIn</a> • 
-<a href="mailto:promisehispeace@gmail.com">Email</a> • 
-<a href="https://t.me/pro_hispeace">Telegram</a>
-</div>
+[LinkedIn](https://www.linkedin.com/in/wadanegassa) • [Email](mailto:promisehispeace@gmail.com) • [Telegram](https://t.me/pro_hispeace)
 
 ---
 
