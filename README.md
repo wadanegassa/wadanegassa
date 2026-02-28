@@ -12,47 +12,93 @@
 
 ---
 
-## 🚀 Skills
+## 🚀 Projects That Matter
 
-- **Cross-platform Flutter Apps**  
-- **Offline-first architectures** (Hive + Provider)  
-- **Secure Auth** (JWT, RBAC, RLS)  
-- **API-driven Backend** (Node.js, Express, Supabase)  
-- **Modern, Minimal UI/UX**
+### ✨ ProShop — Full-Stack E-Commerce
+**Summary:** Unified shopping experience across mobile & web.  
+**Features:**  
+- 🛒 Unified catalog sync between Flutter & React  
+- 💳 Stripe/PayPal secure payments  
+- 📊 Real-time order monitoring dashboard  
+- 🔐 Role-based admin/customer auth  
 
----
+**Highlights:**  
+- Monolith-first, microservices-ready architecture  
+- JWT for auth, MongoDB for flexible catalog modeling  
+- Optimized queries + local caching → 40% faster  
 
-## 🏗 Projects That Matter
+**Impact:**  
+- 100% data parity across platforms  
+- Smooth checkout & admin workflow  
 
-### 🔹 ProShop — Unified E-Commerce
-Multi-platform shopping with **real-time order tracking** and **secure payments**.  
-**Tech:** Flutter • React • Node.js • MongoDB • Stripe/PayPal  
-**Impact:** 100% cross-platform data parity, frictionless checkout  
-
----
-
-### 🔹 StudyMate — AI Study Companion
-Adaptive learning powered by **Gemini AI**, offline-ready for high-performance study.  
-**Tech:** Flutter • Supabase • Hive • Provider  
-**Impact:** +30% daily active sessions, fully context-aware  
+**Tech:** Flutter • React • Node.js • MongoDB • Stripe • PayPal  
 
 ---
 
-### 🔹 Holy Bible — Dual-Language Scripture
-Premium offline Bible with **smooth UI**, smart highlights, and lightning-fast verse lookup.  
-**Tech:** Flutter • Sqflite • Provider • Dart  
-**Impact:** Seamless bilingual reading, offline-first luxury experience  
+### ✨ StudyMate — AI-Powered Study Companion
+**Summary:** Adaptive AI tutor for proactive learning.  
+**Features:**  
+- 🤖 AI-driven learning paths  
+- ⏱ Real-time Supabase state sync  
+- 💾 Offline-first notes via Hive  
+- 🎯 Context-aware student planner  
+
+**Highlights:**  
+- Gemini AI integration for personalized tutoring  
+- Streaming-first UI for latency-sensitive AI responses  
+- Semantic chunking & custom “learning decay” algorithm  
+
+**Impact:**  
+- +30% daily active study sessions  
+- Fully offline-ready for low-connectivity  
+
+**Tech:** Flutter • Supabase • Gemini AI • Hive • Provider  
 
 ---
 
-### 🔹 ProPlayer — Universal Media Center
-Gesture-driven multimedia player combining **local & streaming media**.  
-**Tech:** Flutter • Just Audio • Chewie • Youtube Explode  
-**Impact:** Seamless playback, immersive control, offline-ready  
+### ✨ ProChat — Real-Time Messaging Platform
+**Summary:** Resilient messaging across devices.  
+**Features:**  
+- ⚡ <200ms message latency  
+- 🔄 Offline-to-online sync with chronological integrity  
+- 🎥 Client-side media compression  
+- 🔐 Firestore security & event-driven sync  
+
+**Highlights:**  
+- Serverless, reactive architecture  
+- Firebase-first for speed, client-side processing for efficiency  
+
+**Impact:**  
+- Smooth cross-device messaging  
+- Media-rich chat without lag  
+
+**Tech:** Flutter • Firebase • Firestore • Provider  
 
 ---
 
-## 🛠 Stack
+### ✨ Holy Bible — Dual-Language Scripture
+**Summary:** Amharic & English Bible, fully offline.  
+**Features:**  
+- 📖 Bilingual reading with 6+ highlight palettes  
+- ⚡ Sub-10ms verse lookup  
+- 🗂 Background isolate processing for smooth DB population  
+- 🔍 Dynamic book/chapter navigation  
+
+**Highlights:**  
+- Offline-first with Sqflite & Dart Isolates  
+- Smart contrast detection for readability  
+- Adaptive layouts for phone, tablet, desktop  
+
+**Impact:**  
+- 100% offline availability  
+- Smooth dual-language reading experience  
+- Premium verse highlighting with intelligent contrast  
+
+**Tech:** Flutter • Dart • Provider • Sqflite • Shared Preferences  
+
+---
+
+## 🛠 Core Stack
 
 Flutter • Dart • Provider • Node.js • Express • Supabase • Firebase • MongoDB • PostgreSQL • Hive • Figma • Git  
 
@@ -64,4 +110,4 @@ Flutter • Dart • Provider • Node.js • Express • Supabase • Firebase 
 
 ---
 
-_"Excellence is a habit, not a choice."_
+_"Excellence is a habit, not a choice."_  
