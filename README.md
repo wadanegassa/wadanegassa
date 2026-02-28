@@ -50,14 +50,91 @@ Git • GitHub • Figma • VS Code • Postman
 
 ## 🏗 Featured Systems
 
-### 🔹 ProWallet
-Offline-first fintech-style wallet system with local-first data logic and scalable architecture.
-
-### 🔹 Campus Connect
-University platform connecting students and administration through events, announcements, and lost & found.
+<div align="center">
 
 ### 🔹 ProShop
-Full-stack e-commerce architecture integrating secure payments and role-based access control.
+**Full-Stack E-Commerce Solution**  
+![ProShop Logo](/assets/proshop/logo.png)  
+A unified e-commerce ecosystem bridging Flutter mobile and React web with secure Stripe/PayPal payments and real-time order monitoring.
+
+**Features:**  
+- Unified catalog sync (Flutter & React)  
+- Secure multi-gateway payment orchestration  
+- Role-based admin/customer authentication  
+- Real-time order monitoring dashboard  
+
+**Tech Stack:** Node.js • Express • React • Vite • Flutter • MongoDB • Stripe • PayPal  
+
+**Impact:**  
+- 100% data parity across mobile & web  
+- Reduced friction in order processing for admins  
+
+[GitHub](https://github.com/wadanegassa/proshop) • [Demo](#)
+
+---
+
+### 🔹 StudyMate
+**AI-Powered Study Companion**  
+![StudyMate Logo](/assets/studymate/logo.png)  
+Adaptive learning app leveraging Gemini AI to turn passive study into a proactive, personalized experience.
+
+**Features:**  
+- AI-driven adaptive learning paths  
+- Offline-first note persistence via Hive  
+- Real-time Supabase sync  
+- Context-aware student planning engine  
+
+**Tech Stack:** Flutter • Supabase • Gemini AI • Provider • Hive  
+
+**Impact:**  
+- +30% daily active study sessions  
+- Full offline reliability for notes and scheduling  
+
+[GitHub](https://github.com/wadanegassa/studymate) • [Demo](#)
+
+---
+
+### 🔹 Holy Bible
+**Amharic & English Scripture Platform**  
+![Holy Bible Logo](/assets/bible/logo.png)  
+Premium offline Bible reader with dual-language support, smart highlighting, and buttery-smooth performance on all devices.
+
+**Features:**  
+- Fully offline reading (KJV & Amharic 1962)  
+- Premium verse highlighting with 6+ color palettes  
+- Background Isolate DB population for lag-free UI  
+- Dynamic book/chapter navigation grid  
+
+**Tech Stack:** Flutter • Dart • Provider • Sqflite • Shared Preferences  
+
+**Impact:**  
+- 100% offline availability  
+- Smooth bilingual reading with intelligent contrast detection  
+
+[GitHub](https://github.com/wadanegassa/bible) • [Demo](#)
+
+---
+
+### 🔹 ProPlayer
+**Universal Media Center**  
+![ProPlayer Logo](/assets/proplayer/logo.png)  
+High-performance multimedia player unifying local and streaming media with immersive gesture-driven controls.
+
+**Features:**  
+- Universal local media streaming  
+- Gesture-driven video playback controls  
+- Background audio lifecycle management  
+- Low-overhead YouTube serverless parsing  
+
+**Tech Stack:** Flutter • Just Audio • Chewie • Youtube Explode • Provider  
+
+**Impact:**  
+- Seamless background playback  
+- High-fidelity media control for diverse sources  
+
+[GitHub](https://github.com/wadanegassa/proplayer) • [Demo](#)
+
+</div>
 
 ---
 
