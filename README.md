@@ -44,34 +44,52 @@
 
 <div align="center">
 
-<a href="https://github.com/wadanegassa/proshop">
-<img src="https://img.shields.io/badge/ProShop-000000?style=for-the-badge&logo=flutter&logoColor=white"/>
-</a>
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/wadanegassa/proshop"><b>ProShop</b></a>
+</td>
+<td align="center">
+<a href="https://github.com/wadanegassa/UniElevate"><b>UniElevate</b></a>
+</td>
+<td align="center">
+<a href="https://github.com/wadanegassa/studymate"><b>StudyMate</b></a>
+</td>
+</tr>
 
-<a href="https://github.com/wadanegassa/UniElevate">
-<img src="https://img.shields.io/badge/UniElevate-000000?style=for-the-badge"/>
-</a>
+<tr>
+<td align="center">
+<a href="https://github.com/wadanegassa/prochat"><b>ProChat</b></a>
+</td>
+<td align="center">
+<a href="https://github.com/wadanegassa/bible"><b>Holy Bible</b></a>
+</td>
+<td align="center">
+<a href="https://github.com/wadanegassa/prolingo"><b>ProLingo</b></a>
+</td>
+</tr>
 
-<a href="https://github.com/wadanegassa/studymate">
-<img src="https://img.shields.io/badge/StudyMate-000000?style=for-the-badge"/>
-</a>
+<tr>
+<td align="center">
+<a href="https://github.com/wadanegassa/proverse"><b>ProVerse</b></a>
+</td>
+<td align="center">
+<a href="https://github.com/wadanegassa/hcsms"><b>HSCMS</b></a>
+</td>
+<td align="center">
+<a href="https://github.com/wadanegassa/proexplore"><b>ProExplore</b></a>
+</td>
+</tr>
 
-<br/>
+<tr>
+<td align="center">
+<a href="https://github.com/wadanegassa/proplayer"><b>ProPlayer</b></a>
+</td>
+</tr>
 
-<a href="https://github.com/wadanegassa/prochat">
-<img src="https://img.shields.io/badge/ProChat-000000?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/wadanegassa/bible">
-<img src="https://img.shields.io/badge/Holy%20Bible-000000?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/wadanegassa/prolingo">
-<img src="https://img.shields.io/badge/ProLingo-000000?style=for-the-badge"/>
-</a>
+</table>
 
 </div>
-
 ---
 
 ## Development Activity
