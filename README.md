@@ -44,16 +44,31 @@
 
 <div align="center">
 
-### 🔹 <a href="https://github.com/wadanegassa/proshop" target="_blank">ProShop</a>
-### 🔹 <a href="https://github.com/wadanegassa/UniElevate" target="_blank">UniElevate</a>
-### 🔹 <a href="https://github.com/wadanegassa/studymate" target="_blank">StudyMate</a>  
-### 🔹 <a href="https://github.com/wadanegassa/prochat" target="_blank">ProChat</a>  
-### 🔹 <a href="https://github.com/wadanegassa/bible" target="_blank">Holy Bible</a>  
-### 🔹 <a href="https://github.com/wadanegassa/prolingo" target="_blank">ProLingo</a>  
-### 🔹 <a href="https://github.com/wadanegassa/proverse" target="_blank">ProVerse</a>  
-### 🔹 <a href="https://github.com/wadanegassa/hcsms" target="_blank">HSCMS</a>  
-### 🔹 <a href="https://github.com/wadanegassa/proexplore" target="_blank">ProExplore</a>  
-### 🔹 <a href="https://github.com/wadanegassa/proplayer" target="_blank">ProPlayer</a>  
+<a href="https://github.com/wadanegassa/proshop">
+<img src="https://img.shields.io/badge/ProShop-000000?style=for-the-badge&logo=flutter&logoColor=white"/>
+</a>
+
+<a href="https://github.com/wadanegassa/UniElevate">
+<img src="https://img.shields.io/badge/UniElevate-000000?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/wadanegassa/studymate">
+<img src="https://img.shields.io/badge/StudyMate-000000?style=for-the-badge"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/wadanegassa/prochat">
+<img src="https://img.shields.io/badge/ProChat-000000?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/wadanegassa/bible">
+<img src="https://img.shields.io/badge/Holy%20Bible-000000?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/wadanegassa/prolingo">
+<img src="https://img.shields.io/badge/ProLingo-000000?style=for-the-badge"/>
+</a>
 
 </div>
 
