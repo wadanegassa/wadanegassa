@@ -95,8 +95,13 @@
 ## Development Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=wadanegassa&show_icons=true&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wadanegassa&theme=tokyonight&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wadanegassa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadanegassa&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wadanegassa&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 ---
