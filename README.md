@@ -92,39 +92,10 @@
 </div>
 ---
 
-## Development Activity
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wadanegassa&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wadanegassa&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## Current Focus
-
-- Mastering advanced system design for mobile apps  
-- Deepening backend architecture & database optimization  
-- Building production-ready scalable systems  
-- Creating meaningful, real-world impact through technology  
-
----
-
 ## Connect
 
 <div align="center">
 <a href="https://www.linkedin.com/in/wadanegassa">LinkedIn</a> • 
 <a href="mailto:wadanegassa44@gmail.com">Email</a> • 
 <a href="https://t.me/pro_hispeace">Telegram</a>
-</div>
-
----
-
-<div align="center">
-
-_"Excellence is not an act, but a habit."_
-
 </div>
